@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
