@@ -5,7 +5,7 @@
  *     struct ListNode *next;
  * };
  */
-bool isPalindrome(struct ListNode* head) {
+bool isPalindrome(struct ListNode* head) {          //Time & space cmplx -> O(n) as there is an extra array
     struct ListNode * temp = head;
     int count = 0;
     while(temp!=NULL){
