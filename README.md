@@ -68,9 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0344-reverse-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
