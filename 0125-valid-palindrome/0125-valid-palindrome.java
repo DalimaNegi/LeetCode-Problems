@@ -3,10 +3,12 @@ class Solution {
         String s1 = s.replaceAll("[^a-zA-Z0-9]","").toLowerCase().trim();
         String s2 = new StringBuilder(s1).reverse().toString();
         
-        if(s1.equals(s2)){
-            return true;
-        }else{
-            return false;
-        }
+        return s1.equals(s2);
     }
 }
+
+// if(s1.equals(s2)){
+//       System.out.println(true);
+// }else{
+//       System.out.println(false);
+// }
