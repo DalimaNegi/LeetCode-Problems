@@ -8,4 +8,4 @@ FROM ( SELECT turn, person_id as ID , person_name, weight,
      ) filtered_data
 WHERE TotalWeight <= 1000
 ORDER BY TURN desc
-LIMIT 1 OFFSET 0;
+LIMIT 1 ;
