@@ -3,7 +3,7 @@
 SELECT * FROM Users
 WHERE REGEXP_LIKE(mail,"^[a-zA-Z][a-zA-Z0-9_.-]*@leetcode[.]com$","c");
 
--- REGEX BASICS 🔥🔥
+-- REGEX BASICS 
 -- ^ , $ → start match at beginning / ending of the string.
 -- | → alternation , eg: (a | o)
 -- dot → match single character.
