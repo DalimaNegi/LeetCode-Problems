@@ -86,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## Design
