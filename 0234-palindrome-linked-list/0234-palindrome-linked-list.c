@@ -7,6 +7,7 @@
  */
 
 struct ListNode * reverse (struct ListNode * head){
+    //Time cmplx - O(n) Space cmplx -> O(1)
     struct ListNode * current = head;
     struct ListNode * prev = NULL;
     struct ListNode * temp;
