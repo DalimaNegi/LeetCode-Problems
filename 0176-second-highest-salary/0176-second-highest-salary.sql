@@ -7,6 +7,10 @@
 -- LIMIT - no. of rows to extract
 -- OFFSET - row position (0-n)
 
+-- SELECT MAX(salary) as SecondHighestSalary 
+-- FROM Employee
+-- WHERE salary < (SELECT MAX(salary) FROM Employee); # Time -O(n) and Space cmplx- O(1)
+
 SELECT MAX(salary) as SecondHighestSalary 
 FROM Employee
-WHERE salary < (SELECT MAX(salary) FROM Employee); # Time -O(n) and Space cmplx- O(1)
+WHERE salary not in (SELECT MAX(salary) FROM Employee);
