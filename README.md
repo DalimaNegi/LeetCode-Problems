@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
