@@ -8,7 +8,8 @@ class Solution {
             mergedString.append(word2.charAt(p2));
             p1++;
             p2++;
-        }
+        }                                      // Time & Space cmplx -> O(m+n)
+                                               // Auxillary space -> O(1) , excluding output
         
         if(p1<word1.length()){
             while(p1<word1.length()){
