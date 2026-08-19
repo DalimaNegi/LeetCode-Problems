@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1550-three-consecutive-odds](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1550-three-consecutive-odds) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Database
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Design
 |  |
 | ------- |
