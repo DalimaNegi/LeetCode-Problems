@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Design
 |  |
