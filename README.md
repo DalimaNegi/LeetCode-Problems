@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1550-three-consecutive-odds](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1550-three-consecutive-odds) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0268-missing-number) |
 | [2974-minimum-number-game](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
@@ -198,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
