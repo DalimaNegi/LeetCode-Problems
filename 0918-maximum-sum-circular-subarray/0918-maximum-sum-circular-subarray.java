@@ -1,6 +1,6 @@
 class Solution {
     public int maxSubarraySumCircular(int[] nums) {
-        int total =nums[0];
+        int total =nums[0];            // Time cmplx -> O(n)
         int minSum = nums[0];
         int maxSum = nums[0];
         int minCurrent = nums[0];
