@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0918-maximum-sum-circular-subarray](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1550-three-consecutive-odds](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1550-three-consecutive-odds) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -190,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0055-jump-game) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
