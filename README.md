@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0258-add-digits) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Queue
 |  |
 | ------- |
