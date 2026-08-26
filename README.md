@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Database
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Design
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -219,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0268-missing-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
