@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2785-sort-vowels-in-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2785-sort-vowels-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0268-missing-number) |
+| [2785-sort-vowels-in-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
