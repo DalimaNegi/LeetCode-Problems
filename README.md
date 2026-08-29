@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2785-sort-vowels-in-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2785-sort-vowels-in-a-string) |
+| [3019-number-of-changing-keys](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3019-number-of-changing-keys) |
 ## Design
 |  |
 | ------- |
