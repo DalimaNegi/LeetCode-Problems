@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3875-construct-uniform-parity-array-i](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3536-maximum-product-of-two-digits](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Dynamic Programming
 |  |
