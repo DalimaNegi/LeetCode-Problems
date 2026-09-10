@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -296,4 +298,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
