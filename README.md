@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0724-find-pivot-index](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
