@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0709-to-lower-case) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Matrix
 |  |
