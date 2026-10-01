@@ -2,12 +2,10 @@ class Solution {
     public boolean isValid(String s) {
         // Time complexity - O(n) & Space complexity - O(n)
 
-        char ch;
-
         Stack<Character> bracketStack = new Stack<>();
 
         for(int i=0; i<s.length(); i++){
-            ch = s.charAt(i);
+            char ch = s.charAt(i);
             if(ch == '(' || ch == '[' || ch == '{' ){
                 bracketStack.push(ch);
             }
