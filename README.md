@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Matrix
