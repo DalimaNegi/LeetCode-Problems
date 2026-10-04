@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/DalimaNegi/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
